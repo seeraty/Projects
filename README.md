@@ -9,6 +9,7 @@ A collection of projects developed during my studies at KTH Royal Institute of T
 * Rebuilding MSKTH's website ([website repo](https://github.com/mskth-webpage/mskth)): Collaborated with a team to rebuild a student organisation's website from scratch using Next.js, TypeScript, Tailwind CSS and Supabase. Primarily responsible for developing the board members section, including its public-facing page and administrative interface. Also contributed reusable components, sections and functionality across the website, working full stack.
   
 My contributions included:
+
     * Contributing to requirements and UI feedback (as I was a boardmember).
     * Designing and implementing frontend views, presenters, reusable components and modals.
     * Developing database tables, types and access permissions in Supabase.
