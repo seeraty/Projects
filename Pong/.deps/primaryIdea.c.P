@@ -1,2 +1,0 @@
-primaryIdea.c.o: primaryIdea.c
-primaryIdea.c :
