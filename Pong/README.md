@@ -1,5 +1,6 @@
 # PONG minigame on the ChipKIT Uno32
-Authors: Seerat Yasir, Chloe Joyce Wabingga Raneses
+Authors: Seerat Yasir, Chloe Joyce Wabingga Raneses.
+
 This project is part of the course IS1500 Computer Organization and Components at KTH Royal Institute of Technology.
 
 ## Requirements
